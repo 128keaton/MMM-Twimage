@@ -1,0 +1,14 @@
+{
+  "name": "twimage",
+  "version": "1.0.0",
+  "description": "A nice Twitter image feed for MagicMirror",
+  "main": "twimage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+   "twitter": "^1.7.0"
+ },
+  "author": "Keaton Burleson",
+  "license": "ISC"
+}
