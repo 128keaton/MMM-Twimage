@@ -1,6 +1,6 @@
 //copyright 2016, keatonburleson
 
-Module.register("twimage", {
+Module.register("MMM-Twimage", {
     // Default module config.
     defaults: {
         screenName: "interior",
